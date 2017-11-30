@@ -7,3 +7,5 @@ Cras aliquet ex vel urna mollis efficitur. Nam a augue vel tellus auctor mollis.
 Fusce faucibus viverra tortor et tempor. In at leo fermentum, hendrerit risus eu, mollis ex. Vestibulum interdum dui eget ante iaculis congue. Pellentesque mattis est felis, a porta velit ornare id. Fusce tempus sed eros eget pharetra. Donec finibus dui et nunc consectetur facilisis. Vivamus tempus a eros eu ullamcorper. Quisque gravida egestas mauris, ac ornare metus vehicula nec. Mauris et tincidunt augue. Vivamus a nisl non augue consectetur pharetra. Curabitur porta nisl lacinia odio porta imperdiet. Aliquam vel sollicitudin risus, vel consectetur nunc. Morbi dapibus id velit sit amet congue. Fusce at augue eu tellus viverra pellentesque. Vestibulum ipsum lacus, gravida nec arcu eu, ultricies finibus nulla. Praesent libero ex, blandit vel eleifend eget, consectetur eget diam.
 
 This is an addition to the design-assignment-2.txt file.
+
+This is my second addition to the design-assignment-2.txt file as user-2.
